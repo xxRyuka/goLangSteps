@@ -1,3 +1,14 @@
-﻿package main
+package main
 
-func main() {}
+type myType int
+
+const (
+	HttpStatusOK myType = iota
+	HttpStatusBadRequest
+	HttpStatusUnauthorized
+	HttpStatusForbidden
+)
+
+func e() {
+
+}
