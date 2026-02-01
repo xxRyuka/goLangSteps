@@ -14,8 +14,4 @@ This repository is not just a collection of snippets; it is a structured documen
 
 ## Notes (Notion)
 
-My personal learning notes are maintained in Notion:
-
-👉 [Go – Under the Hood Notes](https://chestnut-turkey-d1b.notion.site/2a9ad6137d2480b984c4ca1c0fa7d937)
-
 [![Notion Notes](https://img.shields.io/badge/Notes-Notion-black?logo=notion)](https://chestnut-turkey-d1b.notion.site/2a9ad6137d2480b984c4ca1c0fa7d937)
